@@ -1,6 +1,9 @@
 
 .container{
     width: 300px;
+    background:#205b7a;
+    border-radius: 5px;
+    padding: 10px 5px;
 }
 h1{
     font-size: 22px;
@@ -8,11 +11,13 @@ h1{
 .button{
     padding: 20px;
     margin: 0px 0px;
-    border: 2px solid #000;
+    border: unset;
     border-radius: 9px;
     cursor: pointer;
     font-size: 20px;
     width: 66px;
+    background: #142f44;
+    color: #fff;
 }
 .row{
     margin: 10px 0px;
