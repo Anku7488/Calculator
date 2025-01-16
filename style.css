@@ -1,0 +1,31 @@
+
+.container{
+    width: 300px;
+}
+h1{
+    font-size: 22px;
+}
+.button{
+    padding: 20px;
+    margin: 0px 0px;
+    border: 2px solid #000;
+    border-radius: 9px;
+    cursor: pointer;
+    font-size: 20px;
+    width: 66px;
+}
+.row{
+    margin: 10px 0px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.row input{
+    font-size: 23px;
+    margin: 0px;
+    padding: 10px px;
+    border: 2px solid #000;
+    border-radius: 5px;
+    width: 291px;
+}
